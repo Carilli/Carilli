@@ -19,7 +19,7 @@
 - 📧 E-mail: jvcarilli@gmail.com 
 - 🔗 LinkedIn: www.linkedin.com/in/joão-victor-moreira-carilli-759726299  
 - 🖥️ GitHub: https://github.com/Carilli
-
+<b>LINGUAGENS EM APRENDIZAGEM:</b>
 <div> 
   <a href="https://instagram.com/jv.carilli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jvcarilli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
