@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá! 👋 Eu sou João Victor Moreira Carilli  
 
-<!--
-**Carilli/Carilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mim  
+- 🎓 Atualmente, estou cursando Ciência da Computação na UNISC.  
 
-Here are some ideas to get you started:
+### 🔭 No que estou trabalhando  
+- Explorando diferentes áreas da Ciência da Computação, desde desenvolvimento de software até Inteligência Artificial.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 O que estou aprendendo  
+- Aprofundando meus conhecimentos em programação, algoritmos, estruturas de dados e desenvolvimento de software.  
+- Melhorando minhas habilidades de resolução de problemas através de desafios de código e projetos.  
+
+### 📫 Como me encontrar  
+- 📧 E-mail: jvcarilli@gmail.com 
+- 🔗 LinkedIn: www.linkedin.com/in/joão-victor-moreira-carilli-759726299  
+- 🖥️ GitHub: https://github.com/Carilli
