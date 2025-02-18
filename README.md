@@ -4,7 +4,7 @@
 - 🎓 Atualmente, estou cursando Ciência da Computação na UNISC.  
 
 ### 🔭 No que estou trabalhando  
-- Explorando diferentes áreas da Ciência da Computação, desde desenvolvimento de software até Inteligência Artificial.  
+- Explorando diferentes áreas da Ciência da Computação. Atualemte, na área de desenvolvimento de software.
 
 ### 🌱 O que estou aprendendo  
 - Aprofundando meus conhecimentos em programação, algoritmos, estruturas de dados e desenvolvimento de software.  
